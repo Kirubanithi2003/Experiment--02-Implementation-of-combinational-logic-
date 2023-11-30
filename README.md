@@ -20,11 +20,11 @@ The OR gate is a fundamental digital logic gate that operates on two binary inpu
 The AND gate is a fundamental digital logic gate with two inputs and one output. It produces a high output (1) only when both input signals are high (1). If any input is low (0), the output remains low. It's a building block for more complex logic circuits and is integral in digital computations.
 #### NOT Gate:
 The NOT gate is a fundamental digital logic gate. It has a single input and a single output. The output is the inverse of the input: if the input is high (1), the output is low (0), and vice versa. It's a basic building block in digital circuits, used for logic inversion.
+Developed by: Kirubanithi C
+RegisterNumber: 212222050031
 
 ## Program:
 ```
-Developed by: Kirubanithi C
-RegisterNumber: 212222050031
 module exp02(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
